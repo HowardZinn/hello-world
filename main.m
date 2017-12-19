@@ -17,7 +17,7 @@ int main(){
     printf("But I wish there was a Star Wars episode %f, about the origins of Yoda.\n", 0.1);
     printf("Sorry, I mean I wish there was an episode %.1f. Who needs all those extra 0's?\n", 0.1);
     
-    // Writing "%.1f" is how to keep a float limited to a certain number of digits after the decimal point
+    // Writing '%.1f' is how to keep a float limited to a certain number of digits after the decimal point
     
     /* %s and %d are conversion characters.
      %s for single characters of text or single words.
